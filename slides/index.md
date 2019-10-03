@@ -29,7 +29,7 @@ showinnav: true
 		Second hour: Introduction to HTML and CSS
 		<br>
 		Read and do chapters 1 and 2 from Michael Hartl's Ruby on Rails Tutorial Book.
-		Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week )
+		Continue working on <a href="https://www.codecademy.com/learn/learn-ruby">Ruby Code Academy</a> (finish it by next week )
 </p>
 </section>
 </ul>
